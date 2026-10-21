@@ -1,3 +1,5 @@
+> **This experiment has moved.** It now lives in the `images/` folder of the main repository, [hammer-mt/phylomemetics](https://github.com/hammer-mt/phylomemetics/tree/main/images), with its full history. This repository is kept only so old links still work.
+
 # Batman Visual Memes
 
 **Do vision models have neurons for Batman's visual memes? An exploratory side experiment to [phylomemetics](https://github.com/hammer-mt/phylomemetics).**
